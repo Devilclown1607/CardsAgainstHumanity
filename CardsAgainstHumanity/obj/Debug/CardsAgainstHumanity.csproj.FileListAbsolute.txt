@@ -1,0 +1,2 @@
+D:\Cegep Ste-Foy\Algoritmes et structures de données II\Étape 2\TP3\CardsAgainstHumanity\CardsAgainstHumanity\bin\Debug\CardsAgainstHumanity.exe.config
+D:\Cegep Ste-Foy\Système d'exploitation et réseaux II\Étape 3\CardsAgainstHumanity\CardsAgainstHumanity\bin\Debug\CardsAgainstHumanity.exe.config
