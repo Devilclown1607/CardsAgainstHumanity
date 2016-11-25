@@ -11,9 +11,11 @@ namespace CardsAgainstHumanity
     class Card
     {
         string family = "Cards Against Humanity";
-        string text = "Patate";
+
+
+        string[,] textLanguage = new string[3, 2] { { "one", "two" }, { "three", "four" }, { "five", "six" } };
         bool writableCard = false;
-        Player ownwer;
+        Player ownwer = null;
 
 
 
